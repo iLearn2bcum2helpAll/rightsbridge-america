@@ -1,14 +1,14 @@
 {
   "name": "RightsBridge America",
   "short_name": "RightsBridge",
-  "start_url": "/",
+  "start_url": "/rightsbridge-america/",
   "display": "standalone",
   "background_color": "#f7fbfa",
   "theme_color": "#173f53",
   "description": "Plain-language help finding official resources and one safe next step.",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/rightsbridge-america/favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
